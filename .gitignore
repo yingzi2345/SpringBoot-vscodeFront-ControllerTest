@@ -1,0 +1,14 @@
+# Java后端
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/out/
+
+# 前端
+frontend/node_modules/
+frontend/dist/
+frontend/.vscode/
+
+# 通用
+*.log
+.DS_Store
